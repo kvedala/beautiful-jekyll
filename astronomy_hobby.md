@@ -19,7 +19,7 @@ translate into being lonely. World has changed. It is not going to be exactly
 pre COVID-19 days again, for a long time. Therefore, the onus is on oneself to
 remain engaged and ensure loneliness due to being alone, is kept at bay.
 Hobbies play a vital role in this endeavour. It has been shown, time and again,
-that pursuing hobbies improves mental health keeping depression at bay.[^1],[^2] Many
+that pursuing hobbies improves mental health keeping depression at bay.[^1,^2] Many
 even classify hobbies into three broad categories: physical hobbies,
 intellectual hobbies and spiritual hobbies.
 
@@ -77,7 +77,7 @@ that either happened or are to happen during the COVID-19 are:
     also a spectacular view through 8&quot; and
     bigger telescopes.[^7]
 6. Mars, Jupiter, Saturn, Uranus and Neptune being
-    visible at the same time. [^8],[^9]
+    visible at the same time. [^8,^9]
 
 Having started with a camera and a small
 refractor in my childhood, I have since upgraded to an 8&quot; f4.9 Newtonian reflector.
