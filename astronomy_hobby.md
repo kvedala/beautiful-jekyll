@@ -66,20 +66,16 @@ that either happened or are to happen during the COVID-19 are:
         phenomena called supermoon [^3]
 2. Mars Occultation –- a rare eclipse like event
      with moon eclipsing Mars by being exactly between Earth and Mars [^4]
-
 3. Jupiter and Saturn conjunctions, bright joint
     guest appearances with their moons [^5]
-
 4. natural light shows like Perseids, Delta
     Aquarids, Lydrid meteor showers [^6]
-
 5. three different comets being visible at the same
     time before moving on to farther reaches of the solar system, of which comet [NEOWISE (C/2020 F3](https://en.wikipedia.org/wiki/Comet_NEOWISE) was
     the most spectacular and visible to the
     naked eyes. The comet [PANSTARRS (C/2017 T2)](https://en.wikipedia.org/wiki/C/2017_T2_(PANSTARRS)) was
     also a spectacular view through 8&quot; and
     bigger telescopes.[^7]
-
 6. Mars, Jupiter, Saturn, Uranus and Neptune being
     visible at the same time. [^8][^9]
 
@@ -93,190 +89,195 @@ dark skies. It is always better to not use any white light from smartphones,
 car headlights, etc as it will dramatically reduce the visibility of celestial
 objects. [^10])
 
-    I have often been fascinated by Astronomy since my
-      childhood, because it shows the impermanence in permanence. I have been able to
-      view and take photographs of distinctive celestial highlights like Bubble
-      nebula, Lunar X (an optical illusion), Local Group of galaxies, Triangulum
-      galaxy, the many globular and open clusters of stars, famous Virgo cluster of
-      which our own Milky Way is a part of and the Markarian chain of galaxies in it
-      that could be photographed with a normal camera.</p>
+I have often been fascinated by Astronomy since my
+  childhood, because it shows the impermanence in permanence. I have been able to
+  view and take photographs of distinctive celestial highlights like Bubble
+  nebula, Lunar X (an optical illusion), Local Group of galaxies, Triangulum
+  galaxy, the many globular and open clusters of stars, famous Virgo cluster of
+  which our own Milky Way is a part of and the Markarian chain of galaxies in it
+  that could be photographed with a normal camera.</p>
 
-    I have attached some of my best captures during the season
-      with brief info as presentation slides. Astronomy can be as cost effective or
-      cost intensive as per one's interest. All that is needed are dark skies and a
-      childlike curiosity to explore the stars! A gallery of more images from my
-      collection with acquisition details are available on [astrobin](https://www.astrobin.com/users/kvedala/).
+I have attached some of my best captures during the season
+  with brief info as presentation slides. Astronomy can be as cost effective or
+  cost intensive as per one's interest. All that is needed are dark skies and a
+  childlike curiosity to explore the stars! A gallery of more images from my
+  collection with acquisition details are available on [astrobin](https://www.astrobin.com/users/kvedala/).
 
-    Happy stargazing!!
+Happy stargazing!!
 
-    ## References
+## References
 
-    [^1]: M. R., &quot;Concerning Hobbies,&quot; *The Irish Monthly*, vol. 33, no. 389,
-                pp. 625-627, 1905.
-    [^2]: D. Fancourt , S.
-                Opher and C. de Oliveira, &quot;Fixed-Effects Analyses of Time-Varying
-                Associations between Hobbies and Depression in a Longitudinal Cohort Study:
-                Support for Social Prescribing?,&quot; *Psychotherapy and Psychosomatics*, vol.
-                89, pp. 111-113, 2020.
-    [^3]: Wikipedia,
-                &quot;Supermoon#Occurrence,&quot; [Online]. Available:
-                https://en.wikipedia.org/wiki/Supermoon#Occurrence.
-    [^4]: B. McClure,
-                &quot;Watch Mars disappear behind the moon on February 18,&quot; 15 February
-                1.    [Online]. Available:
-                https://earthsky.org/astronomy-essentials/lunar-occultation-of-mars-february-18.
-    [^5]: J. Ryan, &quot;When
-                Jupiter and Saturn meet,&quot; 6 August 2019. [Online]. Available:
-                https://earthsky.org/astronomy-essentials/jupiter-saturn-conjunction-dec-2020.
-    [^6]: B. McClure,
-                &quot;EarthSky’s 2020 meteor shower guide,&quot; 3 January 2020. [Online].
-                Available:
-                https://earthsky.org/astronomy-essentials/earthskys-meteor-shower-guide.
-    [^7]: B. King,
-                &quot;COMETS TO CATCH IN 2020,&quot; 15 January 2020. [Online]. Available:
-                https://skyandtelescope.org/observing/comets-to-catch-in-2020/.
-    [^8]: B. McClure,
-                &quot;See all 5 bright planets in February,&quot; 10 February 2020.
-                [Online]. Available:
-                https://earthsky.org/tonight/see-all-5-bright-planets-in-february.
-    [^9]: B. McClure,
-                &quot;September 2020 guide to the bright planets,&quot; 31 August 2020.
-                [Online]. Available:
-                https://earthsky.org/astronomy-essentials/visible-planets-tonight-mars-jupiter-venus-saturn-mercury.
-    [^10]: J. O'Connor,
-                &quot;Dark Adaptation of the Human Eye and the Value of Red
-                Flashlights,&quot; Grand Canyon National Park, National Park Service, 28
-                February 2020. [Online]. Available:
-                https://www.nps.gov/articles/dark-adaptation-of-the-human-eye-and-the-value-of-red-flashlights.htm.
+[^1]: M. R., &quot;Concerning Hobbies,&quot; *The Irish Monthly*, vol. 33, no. 389, pp. 625-627, 1905.
+[^2]: D. Fancourt , S.
+Opher and C. de Oliveira, &quot;Fixed-Effects Analyses of Time-Varying
+Associations between Hobbies and Depression in a Longitudinal Cohort Study:
+Support for Social Prescribing?,&quot; *Psychotherapy and Psychosomatics*, vol.
+89, pp. 111-113, 2020.
+[^3]: Wikipedia,
+&quot;Supermoon#Occurrence,&quot; [Online]. Available:
+https://en.wikipedia.org/wiki/Supermoon#Occurrence.
+[^4]: B. McClure,
+&quot;Watch Mars disappear behind the moon on February 18,&quot; 15 February
+1.    [Online]. Available:
+https://earthsky.org/astronomy-essentials/lunar-occultation-of-mars-february-18.
+[^5]: J. Ryan, &quot;When
+Jupiter and Saturn meet,&quot; 6 August 2019. [Online]. Available:
+https://earthsky.org/astronomy-essentials/jupiter-saturn-conjunction-dec-2020.
+[^6]: B. McClure,
+&quot;EarthSky’s 2020 meteor shower guide,&quot; 3 January 2020. [Online].
+Available:
+https://earthsky.org/astronomy-essentials/earthskys-meteor-shower-guide.
+[^7]: B. King,
+&quot;COMETS TO CATCH IN 2020,&quot; 15 January 2020. [Online]. Available:
+https://skyandtelescope.org/observing/comets-to-catch-in-2020/.
+[^8]: B. McClure,
+&quot;See all 5 bright planets in February,&quot; 10 February 2020.
+[Online]. Available:
+https://earthsky.org/tonight/see-all-5-bright-planets-in-february.
+[^9]: B. McClure,
+&quot;September 2020 guide to the bright planets,&quot; 31 August 2020.
+[Online]. Available:
+https://earthsky.org/astronomy-essentials/visible-planets-tonight-mars-jupiter-venus-saturn-mercury.
+[^10]: J. O'Connor,
+&quot;Dark Adaptation of the Human Eye and the Value of Red
+Flashlights,&quot; Grand Canyon National Park, National Park Service, 28
+February 2020. [Online]. Available:
+https://www.nps.gov/articles/dark-adaptation-of-the-human-eye-and-the-value-of-red-flashlights.htm.
 
-   <table>
-          <colgroup>
-          <col width=70%/>
-          <col width=30%/>
-          </colgroup>
-          <tbody>
+<table>
+<colgroup>
+<col width=70%/>
+<col width=30%/>
+</colgroup>
+<tbody>
+<tr>
+<td>![Lunar X &amp; V]()</td>
+<td>
+Name: [Lunar X &amp; V](https://en.wikipedia.org/wiki/Lunar_X)<br/>
+These are
+optical illusions seen on a
+specific phase of the moon. The image was taken using a camera and 600mm lens
+on a regular tripod.
+</td>
+</tr>
 
-          <tr>
-          <td>![Lunar X &amp; V]()</td>
-          <td>
-          Name: [Lunar X &amp; V](https://en.wikipedia.org/wiki/Lunar_X)
+<tr>
+<td>![M27 - Dumbbell Nebula]()</td>
+<td>
+Name: [M27](https://en.wikipedia.org/wiki/Messier_27") - The Dumbbell
+      Nebula. <br/>
+Distance: ~1227 light years<br/>
+This is a large nebula i.e., a gaseous region
+formed after a sun-like star exhausted all its resources for energy
+production by nuclear fusion and shedding all its remaining mass. The final
+tiny white dwarf can be seen in the middle of the nebula. This can been seen
+using binoculars.
+</td>
+</tr>
 
-          These are
-              optical illusions seen on a
-              specific phase of the moon. The image was taken using a camera and 600mm lens
-              on a regular tripod.
-          </td>
-          </tr>
+<tr>
+<td>![M13 - Dumbbell Nebula]()</td>
+<td>
+Name: [M13](https://en.wikipedia.org/wiki/Messier_13)<br/>
+Distance: 22,200 to 25,000 light years>br/>
+A globular cluster in the Milky Way Galaxy -
+is the brightest visible in the night sky. This looks like a faint star to
+the naked eyes and small binoculars revels the fuzzball like structure of the
+cluster. The yellow stars are sun-like stars that are older than the brighter
+and younger blue stars in the middle.
+</td>
+</tr>
 
+<tr>
+<td>![Comet C/2017 T2 (PANSTARRS)]()</td>
+<td>
+Name: [Comet C/2017 T2 (PANSTARRS)](https://en.wikipedia.org/wiki/C/2017_T2_(PANSTARRS))<br/>
+Distance: 255 million km<br/>
+This image was taken on June 17, 2020 when
+the comet happened to pass in the field of view of [NGC 3953](https://en.wikipedia.org/wiki/NGC_3953).
+This was one of those
+chance imagery that the comet and the galaxy fit in the camera’s field of
+view.
+</td>
+</tr>
 
-        <td>![M27 - Dumbbell Nebula]()</td>
-          <td>
-            Name: [M27](https://en.wikipedia.org/wiki/Messier_27") - The Dumbbell
-                            Nebula. <br/>
-                  Distance: ~1227 light years<br/>
-                  This is a large nebula i.e., a gaseous region
-                    formed after a sun-like star exhausted all its resources for energy
-                    production by nuclear fusion and shedding all its remaining mass. The final
-                    tiny white dwarf can be seen in the middle of the nebula. This can been seen
-                    using binoculars.
-          </td>
-          </tr>
+<tr>
+<td>![M52 and NGC 7635 (Bubble nebula)]()</td>
+<td>
+Name: [M52](https://en.wikipedia.org/wiki/Messier_52) and [NGC 7635 (Bubble nebula)](https://en.wikipedia.org/wiki/NGC_7635)<br/>
+Distance: M52 – 46000 ly<br/>
+This was also a chance imaging. I had no idea
+of the existence of NGC 7635 until this image. I found the M52 and was taking
+images of it. When correcting the image for and light saturation,
+the pretty pink patch and the ring-like bubble popped up.
+</td>
+</tr>
 
-        <td>![M13 - Dumbbell Nebula]()</td>
-          <td>
-            Name: [M13](https://en.wikipedia.org/wiki/Messier_13)<br/>
-            Distance: 22,200 to 25,000 light years>br/>
-            A globular cluster in the Milky Way Galaxy -
-                    is the brightest visible in the night sky. This looks like a faint star to
-                    the naked eyes and small binoculars revels the fuzzball like structure of the
-                    cluster. The yellow stars are sun-like stars that are older than the brighter
-                    and younger blue stars in the middle.
-          </td>
-          </tr>
+<tr>
+<td>![M33 – Triangulum Galaxy]()</td>
+<td>
+Name: [M33 – Triangulum Galaxy](https://en.wikipedia.org/wiki/Triangulum_Galaxy)<br/>
+Distance: 2.7 million ly<br/>
+Once of our neighboring galaxies that is very
+faint but large. The galaxy is an example wherein there is no central
+super-massive blackhole. Faint cloudy arms are made of thousands of stars
+while bright the blue and purple areas are nebulae in that galaxy.
+</td>
+</tr>
 
-        <td>![Comet C/2017 T2 (PANSTARRS)]()</td>
-          <td>
-            Name: [Comet C/2017 T2 (PANSTARRS)](https://en.wikipedia.org/wiki/C/2017_T2_(PANSTARRS))<br/>
-            Distance: 255 million km<br/>
-            This image was taken on June 17, 2020 when
-                    the comet happened to pass in the field of view of [NGC 3953](https://en.wikipedia.org/wiki/NGC_3953).
-                    This was one of those
-                    chance imagery that the comet and the galaxy fit in the camera’s field of
-                    view.
-          </td>
-          </tr>
+<tr>
+<td>![M101 – Pinwheel Galaxy]()</td>
+<td>
+Name: [M101](https://en.wikipedia.org/wiki/Pinwheel_Galaxy) –
+Pinwheel Galaxy<br/>
+Distance: 21 million ly<br/>
+This really faint and far away galaxy looked
+like a circular cloud when the skies were very clear. But this short exposure
+image reveals the detailed structure of the spiral arms, the bright nebulous
+regions and the galactic core.
+</td>
+</tr>
 
-        <td>![M52 and NGC 7635 (Bubble nebula)]()</td>
-          <td>
-            Name: [M52](https://en.wikipedia.org/wiki/Messier_52) and [NGC 7635 (Bubble nebula)](https://en.wikipedia.org/wiki/NGC_7635)<br/>
-            Distance: M52 – 46000 ly<br/>
-            This was also a chance imaging. I had no idea
-                    of the existence of NGC 7635 until this image. I found the M52 and was taking
-                    images of it. When correcting the image for and light saturation,
-                    the pretty pink patch and the ring-like bubble popped up.
-          </td>
-          </tr>
+<tr>
+<td>![M81 &amp; M82 - Bode's Galaxies]()</td>
+<td>
+Name: [M81](https://en.wikipedia.org/wiki/Messier_81) –
+Bode’s galaxy and [M82](https://en.wikipedia.org/wiki/Messier_82) –
+Cigar galaxy<br/>
+Distances: <br/>
+* M81 – 8.5 million ly
+* M82 – 12 million ly
+<br/>Both the galaxies have active galactic nuclei
+and in M82, the bright Hydrogen plumes in the center of the galaxy are
+visible.
+</td>
+</tr>
 
-        <td>![M33 – Triangulum Galaxy]()</td>
-          <td>
-            Name: [M33 – Triangulum Galaxy](https://en.wikipedia.org/wiki/Triangulum_Galaxy)<br/>
-                      Distance: 2.7 million ly<br/>
-                      Once of our neighboring galaxies that is very
-                    faint but large. The galaxy is an example wherein there is no central
-                    super-massive blackhole. Faint cloudy arms are made of thousands of stars
-                    while bright the blue and purple areas are nebulae in that galaxy.
-          </td>
-          </tr>
-
-        <td>![M101 – Pinwheel Galaxy]()</td>
-          <td>
-            Name: [M101](https://en.wikipedia.org/wiki/Pinwheel_Galaxy) –
-                    Pinwheel Galaxy<br/>
-      Distance: 21 million ly<br/>
-      This really faint and far away galaxy looked
-                    like a circular cloud when the skies were very clear. But this short exposure
-                    image reveals the detailed structure of the spiral arms, the bright nebulous
-                    regions and the galactic core.
-          </td>
-          </tr>
-
-        <td>![M81 &amp; M82 - Bode's Galaxies]()</td>
-          <td>
-            Name: [M81](https://en.wikipedia.org/wiki/Messier_81) –
-                    Bode’s galaxy and [M82](https://en.wikipedia.org/wiki/Messier_82) –
-                    Cigar galaxy<br/>
-        Distances: <br/>
-          * M81 – 8.5 million ly
-          * M82 – 12 million ly
-        <br/>Both the galaxies have active galactic nuclei
-                    and in M82, the bright Hydrogen plumes in the center of the galaxy are
-                    visible.
-          </td>
-          </tr>
-
-        <td>![M64 – Black eye galaxy]()</td>
-          <td>
-            Name: [M64](https://en.wikipedia.org/wiki/Messier_64) – Black eye galaxy<br/>
+<tr><tr>
+<td>![M64 – Black eye galaxy]()</td>
+<td>
+Name: [M64](https://en.wikipedia.org/wiki/Messier_64) – Black eye galaxy<br/>
 Distance: 17 million ly<br/>
 The distinct dark dust band in this galaxy
-                gives it the unique appearance. Visually, gives a halo-like appearance to a
-                bright central star.
-          </td>
-          </tr>
+gives it the unique appearance. Visually, gives a halo-like appearance to a
+bright central star.
+</td>
+</tr>
 
-        <td>![NGC 6888 – Crescent Nebula]()</td>
-          <td>
-            Name: [NGC 6888](https://en.wikipedia.org/wiki/NGC_6888) – Crescent Nebula<br/>
-            Distance: 5000 ly<br/>
-            The visible part is the tidal shockwave due to
-                stellar wind and radiates in visible spectrum. DSLR cameras block much of IR
-                light and hence much of it is still not visible. This image was taken using
-                the DGM optics Nebula filter.<br/>
-                Formed from the remains of a dead star that is
-                not visible anymore. The star that is brightening it is a different star. the
-                whole system is so large that light takes 26 years to travel from one end to
-                the other.
-          </td>
-          </tr>
-  </tbody>
-  </table>
+<tr>
+<td>![NGC 6888 – Crescent Nebula]()</td>
+<td>
+Name: [NGC 6888](https://en.wikipedia.org/wiki/NGC_6888) – Crescent Nebula<br/>
+Distance: 5000 ly<br/>
+The visible part is the tidal shockwave due to
+stellar wind and radiates in visible spectrum. DSLR cameras block much of IR
+light and hence much of it is still not visible. This image was taken using
+the DGM optics Nebula filter.<br/>
+Formed from the remains of a dead star that is
+not visible anymore. The star that is brightening it is a different star. the
+whole system is so large that light takes 26 years to travel from one end to
+the other.
+</td>
+</tr>
+</tbody>
+</table>
