@@ -90,18 +90,18 @@ car headlights, etc as it will dramatically reduce the visibility of celestial
 objects. [^10])
 
 I have often been fascinated by Astronomy since my
-  childhood, because it shows the impermanence in permanence. I have been able to
-  view and take photographs of distinctive celestial highlights like Bubble
-  nebula, Lunar X (an optical illusion), Local Group of galaxies, Triangulum
-  galaxy, the many globular and open clusters of stars, famous Virgo cluster of
-  which our own Milky Way is a part of and the Markarian chain of galaxies in it
-  that could be photographed with a normal camera.</p>
+childhood, because it shows the impermanence in permanence. I have been able to
+view and take photographs of distinctive celestial highlights like Bubble
+nebula, Lunar X (an optical illusion), Local Group of galaxies, Triangulum
+galaxy, the many globular and open clusters of stars, famous Virgo cluster of
+which our own Milky Way is a part of and the Markarian chain of galaxies in it
+that could be photographed with a normal camera.
 
 I have attached some of my best captures during the season
-  with brief info as presentation slides. Astronomy can be as cost effective or
-  cost intensive as per one's interest. All that is needed are dark skies and a
-  childlike curiosity to explore the stars! A gallery of more images from my
-  collection with acquisition details are available on [astrobin](https://www.astrobin.com/users/kvedala/).
+with brief info as presentation slides. Astronomy can be as cost effective or
+cost intensive as per one's interest. All that is needed are dark skies and a
+childlike curiosity to explore the stars! A gallery of more images from my
+collection with acquisition details are available on [astrobin](https://www.astrobin.com/users/kvedala/).
 
 Happy stargazing!!
 
