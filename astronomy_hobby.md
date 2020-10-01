@@ -109,27 +109,21 @@ Happy stargazing!!
 
 [^1]: M. R., &quot;Concerning Hobbies,&quot; *The Irish Monthly*, vol. 33, no. 389, pp. 625-627, 1905.
 
-[^2]: D. Fancourt , S.
-Opher and C. de Oliveira, &quot;Fixed-Effects Analyses of Time-Varying
+[^2]: D. Fancourt , S. Opher and C. de Oliveira, &quot;Fixed-Effects Analyses of Time-Varying
 Associations between Hobbies and Depression in a Longitudinal Cohort Study:
 Support for Social Prescribing?,&quot; *Psychotherapy and Psychosomatics*, vol.
 89, pp. 111-113, 2020.
 
-[^3]: Wikipedia,
-&quot;Supermoon#Occurrence,&quot; [Online]. Available:
+[^3]: Wikipedia, &quot;Supermoon#Occurrence,&quot; [Online]. Available:
 https://en.wikipedia.org/wiki/Supermoon#Occurrence.
 
-[^4]: B. McClure,
-&quot;Watch Mars disappear behind the moon on February 18,&quot; 15 February 1.    [Online]. Available: https://earthsky.org/astronomy-essentials/lunar-occultation-of-mars-february-18.
+[^4]: B. McClure, &quot;Watch Mars disappear behind the moon on February 18,&quot; 15 February 1.    [Online]. Available: https://earthsky.org/astronomy-essentials/lunar-occultation-of-mars-february-18.
 
-[^5]: J. Ryan, &quot;When
-Jupiter and Saturn meet,&quot; 6 August 2019. [Online]. Available:
+[^5]: J. Ryan, &quot;When Jupiter and Saturn meet,&quot; 6 August 2019. [Online]. Available:
 https://earthsky.org/astronomy-essentials/jupiter-saturn-conjunction-dec-2020.
 
-[^6]: B. McClure,
-&quot;EarthSky’s 2020 meteor shower guide,&quot; 3 January 2020. [Online].
-Available:
-https://earthsky.org/astronomy-essentials/earthskys-meteor-shower-guide.
+[^6]: B. McClure, &quot;EarthSky’s 2020 meteor shower guide,&quot; 3 January 2020. [Online].
+Available: https://earthsky.org/astronomy-essentials/earthskys-meteor-shower-guide.
 
 [^7]: B. King,
 &quot;COMETS TO CATCH IN 2020,&quot; 15 January 2020. [Online]. Available:
@@ -156,7 +150,7 @@ https://www.nps.gov/articles/dark-adaptation-of-the-human-eye-and-the-value-of-r
 <col width=70%/>
 <col width=30%/>
 </colgroup>
-<tbody>
+
 <tr>
 <td>![Lunar X &amp; V]()</td>
 <td>
@@ -286,5 +280,5 @@ whole system is so large that light takes 26 years to travel from one end to
 the other.
 </td>
 </tr>
-</tbody>
+
 </table>
