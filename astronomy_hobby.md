@@ -133,10 +133,10 @@ collection with acquisition details are available on [astrobin](https://www.astr
 
 Happy stargazing!!
 
-<table>
+<table width="100%">
 <tr>
-    <td width="75%"><a href="/assets/img/image004.png"><img alt="Lunar X &amp; V" title="Lunar X &amp; V" src="/assets/img/image004.png" width="75%"></a></td>
-    <td width="25%">
+    <td width="70%"><a href="/assets/img/image004.png"><img alt="Lunar X &amp; V" title="Lunar X &amp; V" src="/assets/img/image004.png"></a></td>
+    <td width="30%">
         Name: <a href="https://en.wikipedia.org/wiki/Lunar_X">Lunar X &amp; V</a><br/>
         These are
         optical illusions seen on a
@@ -147,7 +147,7 @@ Happy stargazing!!
 <tr>
     <td>![M27 - Dumbbell Nebula]()</td>
     <td>
-        Name: <a href="https://en.wikipedia.org/wiki/Messier_27">M27 - The Dumbbell Nebula.</a><br/>
+        Name: <a href="https://en.wikipedia.org/wiki/Messier_27">M27 - Dumbbell Nebula.</a><br/>
         Distance: ~1227 light years<br/>
         This is a large nebula i.e., a gaseous region
         formed after a sun-like star exhausted all its resources for energy
