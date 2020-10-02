@@ -133,8 +133,8 @@ collection with acquisition details are available on [astrobin](https://www.astr
 
 Happy stargazing!!
 
-<tr>
-<td width="75%"><img alt="Lunar X &amp; V" title="Lunar X &amp; V" src="/assets/img/image004.png"></td>
+<table>
+<td width="75%"><a href="/assets/img/image004.png"><img alt="Lunar X &amp; V" title="Lunar X &amp; V" src="/assets/img/image004.png" width="75%"></a></td>
 <td width="25%">
 Name: [Lunar X &amp; V](https://en.wikipedia.org/wiki/Lunar_X)<br/>
 These are
@@ -262,3 +262,4 @@ whole system is so large that light takes 26 years to travel from one end to
 the other.
 </td>
 </tr>
+</table>
