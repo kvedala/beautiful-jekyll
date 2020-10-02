@@ -28,7 +28,7 @@ intellectual hobbies and spiritual hobbies.
 [^2]: D. Fancourt, S. Opher and C. de Oliveira, &quot;Fixed-Effects Analyses of Time-Varying Associations between Hobbies and Depression in a Longitudinal Cohort Study: Support for Social Prescribing?,&quot; *Psychotherapy and Psychosomatics*, vol. 89, pp. 111-113, 2020. DOI: [10.1159/000503571](https://dx.doi.org/10.1159/000503571)
 
 <img alt="Mechanical dragonfly" title="Mechanical dragonfly" src="/assets/img/image001.png"
-style="float:right" width="45%">
+style="float:right; border:10px" width="45%">
 
 Physical hobbies can include yoga or taking up a
 building project in home. Intellectual hobbies can be well known puzzles like
@@ -54,7 +54,7 @@ high-school mathematical principles to understand [astrology](https://en.wikiped
 
 <img alt="Astrophotography with camera on tripod"
 title="Astrophotography with camera on tripod" src="/assets/img/image002.jpg"
-style="float:left" width="45%">
+style="float:left; border:10px" width="45%">
 
 Hobbies do not always have to lead to a
 scientific discovery but rather a means to engage oneself in the three aspects
@@ -115,7 +115,7 @@ objects.)[^10]
 
 <img alt="Astrophotography with red light"
 title="Astrophotography with red light" src="/assets/img/image003.png"
-style="float:right" width="45%">
+style="float:right; border:10px" width="45%">
 
 I have often been fascinated by Astronomy since my
 childhood, because it shows the impermanence in permanence. I have been able to
@@ -133,16 +133,9 @@ collection with acquisition details are available on [astrobin](https://www.astr
 
 Happy stargazing!!
 
-<table style="width:100%;">
-<colgroup>
-<col span="1" style="width:75%;">
-<col span="1" style="width:25%;">
-</colgroup>
-
-<tbody>
 <tr>
-<td><img alt="Lunar X &amp; V" title="Lunar X &amp; V" src="/assets/img/image004.png"></td>
-<td>
+<td width="75%"><img alt="Lunar X &amp; V" title="Lunar X &amp; V" src="/assets/img/image004.png"></td>
+<td width="25%">
 Name: [Lunar X &amp; V](https://en.wikipedia.org/wiki/Lunar_X)<br/>
 These are
 optical illusions seen on a
@@ -269,5 +262,3 @@ whole system is so large that light takes 26 years to travel from one end to
 the other.
 </td>
 </tr>
-</tbody>
-</table>
