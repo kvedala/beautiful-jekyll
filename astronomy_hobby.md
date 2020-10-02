@@ -137,7 +137,7 @@ Happy stargazing!!
 <tr>
     <td width="75%"><a href="/assets/img/image004.png"><img alt="Lunar X &amp; V" title="Lunar X &amp; V" src="/assets/img/image004.png" width="75%"></a></td>
     <td width="25%">
-        Name: [Lunar X &amp; V](https://en.wikipedia.org/wiki/Lunar_X)<br/>
+        Name: <a href="https://en.wikipedia.org/wiki/Lunar_X">Lunar X &amp; V</a><br/>
         These are
         optical illusions seen on a
         specific phase of the moon. The image was taken using a camera and 600mm lens
@@ -147,7 +147,7 @@ Happy stargazing!!
 <tr>
     <td>![M27 - Dumbbell Nebula]()</td>
     <td>
-        Name: [M27](https://en.wikipedia.org/wiki/Messier_27") - The Dumbbell Nebula. <br/>
+        Name: <a href="https://en.wikipedia.org/wiki/Messier_27">M27 - The Dumbbell Nebula.</a><br/>
         Distance: ~1227 light years<br/>
         This is a large nebula i.e., a gaseous region
         formed after a sun-like star exhausted all its resources for energy
@@ -159,7 +159,7 @@ Happy stargazing!!
 <tr>
     <td>![M13 - Dumbbell Nebula]()</td>
     <td>
-        Name: [M13](https://en.wikipedia.org/wiki/Messier_13)<br/>
+        Name: <a href="https://en.wikipedia.org/wiki/Messier_13">M13</a><br/>
         Distance: 22,200 to 25,000 light years<br/>
         A globular cluster in the Milky Way Galaxy -
         is the brightest visible in the night sky. This looks like a faint star to
@@ -171,10 +171,11 @@ Happy stargazing!!
 <tr>
     <td>![Comet C/2017 T2 (PANSTARRS)]()</td>
     <td>
-        Name: [Comet C/2017 T2 (PANSTARRS)](https://en.wikipedia.org/wiki/C/2017_T2_(PANSTARRS))<br/>
+        Name: <a href="https://en.wikipedia.org/wiki/C/2017_T2_(PANSTARRS)">Comet C/2017 T2 (PANSTARRS)</a><br/>
         Distance: 255 million km<br/>
         This image was taken on June 17, 2020 when
-        the comet happened to pass in the field of view of [NGC 3953](https://en.wikipedia.org/wiki/NGC_3953).
+        the comet happened to pass in the field of view of
+        <a href="https://en.wikipedia.org/wiki/NGC_3953">NGC 3953</a>.
         This was one of those
         chance imagery that the comet and the galaxy fit in the camera’s field of
         view.
@@ -183,7 +184,7 @@ Happy stargazing!!
 <tr>
     <td>![M52 and NGC 7635 (Bubble nebula)]()</td>
     <td>
-        Name: [M52](https://en.wikipedia.org/wiki/Messier_52) and [NGC 7635 (Bubble nebula)](https://en.wikipedia.org/wiki/NGC_7635)<br/>
+        Name: <a href="https://en.wikipedia.org/wiki/Messier_52">M52</a> and <a href="https://en.wikipedia.org/wiki/NGC_7635">NGC 7635 - Bubble nebula</a><br/>
         Distance: M52 – 46000 ly<br/>
         This was also a chance imaging. I had no idea
         of the existence of NGC 7635 until this image. I found the M52 and was taking
@@ -194,7 +195,7 @@ Happy stargazing!!
 <tr>
     <td>![M33 – Triangulum Galaxy]()</td>
     <td>
-        Name: [M33 – Triangulum Galaxy](https://en.wikipedia.org/wiki/Triangulum_Galaxy)<br/>
+        Name: <a href="https://en.wikipedia.org/wiki/Triangulum_Galaxy">M33 – Triangulum Galaxy</a><br/>
         Distance: 2.7 million ly<br/>
         Once of our neighboring galaxies that is very
         faint but large. The galaxy is an example wherein there is no central
@@ -205,7 +206,7 @@ Happy stargazing!!
 <tr>
     <td>![M101 – Pinwheel Galaxy]()</td>
     <td>
-        Name: [M101](https://en.wikipedia.org/wiki/Pinwheel_Galaxy) – Pinwheel Galaxy<br/>
+        Name: <a href="https://en.wikipedia.org/wiki/Pinwheel_Galaxy">M101 – Pinwheel Galaxy</a><br/>
         Distance: 21 million ly<br/>
         This really faint and far away galaxy looked
         like a circular cloud when the skies were very clear. But this short exposure
@@ -216,9 +217,9 @@ Happy stargazing!!
 <tr>
     <td>![M81 &amp; M82 - Bode's Galaxies]()</td>
     <td>
-        Name: [M81](https://en.wikipedia.org/wiki/Messier_81) –
-        Bode’s galaxy and [M82](https://en.wikipedia.org/wiki/Messier_82) –
-        Cigar galaxy<br/>
+        Name: <a href="https://en.wikipedia.org/wiki/Messier_81">M81 –
+        Bode’s galaxy</a> and <a href="https://en.wikipedia.org/wiki/Messier_82">M82 –
+        Cigar galaxy</a><br/>
         Distances:
         * M81 – 8.5 million ly
         * M82 – 12 million ly
@@ -230,7 +231,7 @@ Happy stargazing!!
 <tr>
     <td>![M64 – Black eye galaxy]()</td>
     <td>
-        Name: [M64](https://en.wikipedia.org/wiki/Messier_64) – Black eye galaxy<br/>
+        Name: <a href="https://en.wikipedia.org/wiki/Messier_64">M64 – Black eye galaxy</a><br/>
         Distance: 17 million ly<br/>
         The distinct dark dust band in this galaxy
         gives it the unique appearance. Visually, gives a halo-like appearance to a
@@ -240,7 +241,7 @@ Happy stargazing!!
 <tr>
     <td>![NGC 6888 – Crescent Nebula]()</td>
     <td>
-        Name: [NGC 6888](https://en.wikipedia.org/wiki/NGC_6888) – Crescent Nebula<br/>
+        Name: <a href="https://en.wikipedia.org/wiki/NGC_6888">NGC 6888 – Crescent Nebula</a><br/>
         Distance: 5000 ly<br/>
         The visible part is the tidal shockwave due to
         stellar wind and radiates in visible spectrum. DSLR cameras block much of IR
