@@ -133,14 +133,10 @@ collection with acquisition details are available on [astrobin](https://www.astr
 
 Happy stargazing!!
 
-<table style="width:100%">
-<colgroup>
-<col style="width:75%">
-<col style="width:25%">
-</colgroup>
+<table width="100%">
 
 <tr>
-<td><img alt="Lunar X &amp; V" title="Lunar X &amp; V" src="/assets/img/image004.png"></td>
+<td width="75%"><img alt="Lunar X &amp; V" title="Lunar X &amp; V" src="/assets/img/image004.png"></td>
 <td>
 Name: [Lunar X &amp; V](https://en.wikipedia.org/wiki/Lunar_X)<br/>
 These are
