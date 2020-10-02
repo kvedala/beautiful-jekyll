@@ -65,13 +65,12 @@ incredible complexities of the space that has revolutionized scientific
 developments in all branches of science and engineering. Some of these events
 that either happened or are to happen during the COVID-19 are:
 1. Moon appearing bigger than usual in May –- a
-        phenomena called supermoon [^3]
+        phenomena called supermoon[^3]
 2. Mars Occultation –- a rare eclipse like event
-     with moon eclipsing Mars by being exactly between Earth and Mars [^4]
+     with moon eclipsing Mars by being exactly between Earth and Mars[^4]
 3. Jupiter and Saturn conjunctions, bright joint
-    guest appearances with their moons [^5]
-4. natural light shows like Perseids, Delta
-    Aquarids, Lydrid meteor showers [^6]
+    guest appearances with their moons[^5]
+4. natural light shows like Perseids, Delta Aquarids, Lydrid meteor showers[^6]
 5. three different comets being visible at the same
     time before moving on to farther reaches of the solar system, of which comet [NEOWISE (C/2020 F3](https://en.wikipedia.org/wiki/Comet_NEOWISE) was
     the most spectacular and visible to the
@@ -79,7 +78,7 @@ that either happened or are to happen during the COVID-19 are:
     also a spectacular view through 8&quot; and
     bigger telescopes.[^7]
 6. Mars, Jupiter, Saturn, Uranus and Neptune being
-    visible at the same time. [^8][^9]
+    visible at the same time.[^8] [^9]
 
 [^3]: Wikipedia, &quot;Supermoon#Occurrence,&quot; [Online](https://en.wikipedia.org/wiki/Supermoon#Occurrence).
 
@@ -103,7 +102,7 @@ taking about 20min to setup and thus covers all the necessary hobby elements. (T
 red light in the image alongside is to preserve the human eye adaptation to
 dark skies. It is always better to not use any white light from smartphones,
 car headlights, etc as it will dramatically reduce the visibility of celestial
-objects. [^10])
+objects.)[^10]
 
 [^10]: J. O'Connor, &quot;Dark Adaptation of the Human Eye and the Value of Red Flashlights,&quot; Grand Canyon National Park, National Park Service, 28 February 2020. [Online](https://www.nps.gov/articles/dark-adaptation-of-the-human-eye-and-the-value-of-red-flashlights.htm).
 
@@ -130,7 +129,7 @@ Happy stargazing!!
 </colgroup>
 
 <tr>
-<td>![Lunar X &amp; V](image004.png)</td>
+<td>![Lunar X &amp; V](/assets/img/image004.png){:class="img-responsive"}</td>
 <td>
 Name: [Lunar X &amp; V](https://en.wikipedia.org/wiki/Lunar_X)<br/>
 These are
