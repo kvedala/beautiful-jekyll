@@ -145,7 +145,7 @@ Happy stargazing!!
     </td>
 </tr>
 <tr>
-    <td>![M27 - Dumbbell Nebula]()</td>
+    <td><a href="https://astrob.in/417793/B/"><img src="https://astrob.in/417793/B/rawthumb/gallery/get.jpg?insecure" alt="M27 - Dumbbell Nebula" title="M27 - Dumbbell Nebula"/></a></td>
     <td>
         Name: <a href="https://en.wikipedia.org/wiki/Messier_27">M27 - Dumbbell Nebula.</a><br/>
         Distance: ~1227 light years<br/>
@@ -157,7 +157,7 @@ Happy stargazing!!
     </td>
 </tr>
 <tr>
-    <td>![M13 - Dumbbell Nebula]()</td>
+    <td><a href="https://astrob.in/kiaafx/0/"><img src="https://astrob.in/kiaafx/0/rawthumb/gallery/get.jpg?insecure" alt="M13 - Hercules Cluster" title="M13 - Hercules Cluster"/></a></td>
     <td>
         Name: <a href="https://en.wikipedia.org/wiki/Messier_13">M13</a><br/>
         Distance: 22,200 to 25,000 light years<br/>
@@ -169,7 +169,7 @@ Happy stargazing!!
     </td>
 </tr>
 <tr>
-    <td>![Comet C/2017 T2 (PANSTARRS)]()</td>
+    <td><a href="https://astrob.in/chgfc4/0/"><img src="https://astrob.in/chgfc4/0/rawthumb/gallery/get.jpg?insecure" alt="Comet C/2017 T2 (PANSTARRS)" title="Comet C/2017 T2 (PANSTARRS)"/></a></td>
     <td>
         Name: <a href="https://en.wikipedia.org/wiki/C/2017_T2_(PANSTARRS)">Comet C/2017 T2 (PANSTARRS)</a><br/>
         Distance: 255 million km<br/>
@@ -182,7 +182,7 @@ Happy stargazing!!
     </td>
 </tr>
 <tr>
-    <td>![M52 and NGC 7635 (Bubble nebula)]()</td>
+    <td><a href="https://astrob.in/rkg587/0/"><img src="https://astrob.in/rkg587/0/rawthumb/gallery/get.jpg?insecure" alt="M52 and NGC 7635 - Bubble nebula" title="M52 and NGC 7635 - Bubble nebula"/></a></td>
     <td>
         Name: <a href="https://en.wikipedia.org/wiki/Messier_52">M52</a> and <a href="https://en.wikipedia.org/wiki/NGC_7635">NGC 7635 - Bubble nebula</a><br/>
         Distance: M52 – 46000 ly<br/>
@@ -193,7 +193,7 @@ Happy stargazing!!
     </td>
 </tr>
 <tr>
-    <td>![M33 – Triangulum Galaxy]()</td>
+    <td><a href="https://astrob.in/2m2dhz/0/"><img src="https://astrob.in/2m2dhz/0/rawthumb/gallery/get.jpg?insecure" alt="M33 – Triangulum Galaxy" title="M33 – Triangulum Galaxy"/></a></td>
     <td>
         Name: <a href="https://en.wikipedia.org/wiki/Triangulum_Galaxy">M33 – Triangulum Galaxy</a><br/>
         Distance: 2.7 million ly<br/>
@@ -204,7 +204,7 @@ Happy stargazing!!
     </td>
 </tr>
 <tr>
-    <td>![M101 – Pinwheel Galaxy]()</td>
+    <td><a href="https://astrob.in/yf0xjv/D/"><img src="https://astrob.in/yf0xjv/D/rawthumb/gallery/get.jpg?insecure" alt="M101 – Pinwheel Galaxy" title="M101 – Pinwheel Galaxy"/></a></td>
     <td>
         Name: <a href="https://en.wikipedia.org/wiki/Pinwheel_Galaxy">M101 – Pinwheel Galaxy</a><br/>
         Distance: 21 million ly<br/>
@@ -215,7 +215,7 @@ Happy stargazing!!
     </td>
 </tr>
 <tr>
-    <td>![M81 &amp; M82 - Bode's Galaxies]()</td>
+    <td><a href="https://astrob.in/16lzrq/0/"><img src="https://astrob.in/16lzrq/0/rawthumb/gallery/get.jpg?insecure" alt="M81 nad M82" title="M81 nad M82"/></a></td>
     <td>
         Name: <a href="https://en.wikipedia.org/wiki/Messier_81">M81 –
         Bode’s galaxy</a> and <a href="https://en.wikipedia.org/wiki/Messier_82">M82 –
@@ -229,7 +229,7 @@ Happy stargazing!!
     </td>
 </tr>
 <tr>
-    <td>![M64 – Black eye galaxy]()</td>
+    <td><a href="https://astrob.in/2bpefb/0/"><img src="https://astrob.in/2bpefb/0/rawthumb/gallery/get.jpg?insecure" alt="M64 – Black eye galaxy" title="M64 – Black eye galaxy"/></a></td>
     <td>
         Name: <a href="https://en.wikipedia.org/wiki/Messier_64">M64 – Black eye galaxy</a><br/>
         Distance: 17 million ly<br/>
@@ -239,7 +239,7 @@ Happy stargazing!!
     </td>
 </tr>
 <tr>
-    <td>![NGC 6888 – Crescent Nebula]()</td>
+    <td><a href="https://astrob.in/rethuy/B/"><img src="https://astrob.in/rethuy/B/rawthumb/gallery/get.jpg?insecure" alt="NGC 6888 – Crescent Nebula" title="NGC 6888 – Crescent Nebula"/></a></td>
     <td>
         Name: <a href="https://en.wikipedia.org/wiki/NGC_6888">NGC 6888 – Crescent Nebula</a><br/>
         Distance: 5000 ly<br/>
