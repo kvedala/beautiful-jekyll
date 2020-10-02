@@ -124,14 +124,14 @@ collection with acquisition details are available on [astrobin](https://www.astr
 
 Happy stargazing!!
 
-<table>
+<table style="width:100%">
 <colgroup>
-<col width=70%/>
-<col width=30%/>
+<col style="width:70%"/>
+<col style="width:30%"/>
 </colgroup>
 
 <tr>
-<td>![Lunar X &amp; V](/assets/img/image004.png){:class="img-responsive"}</td>
+<td><img alt="Lunar X &amp; V" title="Lunar X &amp; V" src="/assets/img/image004.png" style="width:65%">:class="img-responsive"}</td>
 <td>
 Name: [Lunar X &amp; V](https://en.wikipedia.org/wiki/Lunar_X)<br/>
 These are
