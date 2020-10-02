@@ -119,31 +119,17 @@ https://en.wikipedia.org/wiki/Supermoon#Occurrence.
 
 [^4]: B. McClure, &quot;Watch Mars disappear behind the moon on February 18,&quot; 15 February 1.    [Online]. Available: https://earthsky.org/astronomy-essentials/lunar-occultation-of-mars-february-18.
 
-[^5]: J. Ryan, &quot;When Jupiter and Saturn meet,&quot; 6 August 2019. [Online]. Available:
-https://earthsky.org/astronomy-essentials/jupiter-saturn-conjunction-dec-2020.
+[^5]: J. Ryan, &quot;When Jupiter and Saturn meet,&quot; 6 August 2019. [Online]. Available: https://earthsky.org/astronomy-essentials/jupiter-saturn-conjunction-dec-2020.
 
-[^6]: B. McClure, &quot;EarthSky’s 2020 meteor shower guide,&quot; 3 January 2020. [Online].
-Available: https://earthsky.org/astronomy-essentials/earthskys-meteor-shower-guide.
+[^6]: B. McClure, &quot;EarthSky’s 2020 meteor shower guide,&quot; 3 January 2020. [Online]. Available: https://earthsky.org/astronomy-essentials/earthskys-meteor-shower-guide.
 
-[^7]: B. King,
-&quot;COMETS TO CATCH IN 2020,&quot; 15 January 2020. [Online]. Available:
-https://skyandtelescope.org/observing/comets-to-catch-in-2020/.
+[^7]: B. King, &quot;COMETS TO CATCH IN 2020,&quot; 15 January 2020. [Online]. Available: https://skyandtelescope.org/observing/comets-to-catch-in-2020/.
 
-[^8]: B. McClure,
-&quot;See all 5 bright planets in February,&quot; 10 February 2020.
-[Online]. Available:
-https://earthsky.org/tonight/see-all-5-bright-planets-in-february.
+[^8]: B. McClure, &quot;See all 5 bright planets in February,&quot; 10 February 2020. [Online]. Available: https://earthsky.org/tonight/see-all-5-bright-planets-in-february.
 
-[^9]: B. McClure,
-&quot;September 2020 guide to the bright planets,&quot; 31 August 2020.
-[Online]. Available:
-https://earthsky.org/astronomy-essentials/visible-planets-tonight-mars-jupiter-venus-saturn-mercury.
+[^9]: B. McClure, &quot;September 2020 guide to the bright planets,&quot; 31 August 2020. [Online]. Available: https://earthsky.org/astronomy-essentials/visible-planets-tonight-mars-jupiter-venus-saturn-mercury.
 
-[^10]: J. O'Connor,
-&quot;Dark Adaptation of the Human Eye and the Value of Red
-Flashlights,&quot; Grand Canyon National Park, National Park Service, 28
-February 2020. [Online]. Available:
-https://www.nps.gov/articles/dark-adaptation-of-the-human-eye-and-the-value-of-red-flashlights.htm.
+[^10]: J. O'Connor, &quot;Dark Adaptation of the Human Eye and the Value of Red Flashlights,&quot; Grand Canyon National Park, National Park Service, 28 February 2020. [Online]. Available: https://www.nps.gov/articles/dark-adaptation-of-the-human-eye-and-the-value-of-red-flashlights.htm.
 
 <table>
 <colgroup>
