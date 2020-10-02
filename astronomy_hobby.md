@@ -19,7 +19,7 @@ translate into being lonely. World has changed. It is not going to be exactly
 pre COVID-19 days again, for a long time. Therefore, the onus is on oneself to
 remain engaged and ensure loneliness due to being alone, is kept at bay.
 Hobbies play a vital role in this endeavour. It has been shown, time and again,
-that pursuing hobbies improves mental health keeping depression at bay.[^1,^2] Many
+that pursuing hobbies improves mental health keeping depression at bay.[^1,][^2] Many
 even classify hobbies into three broad categories: physical hobbies,
 intellectual hobbies and spiritual hobbies.
 
@@ -77,7 +77,7 @@ that either happened or are to happen during the COVID-19 are:
     also a spectacular view through 8&quot; and
     bigger telescopes.[^7]
 6. Mars, Jupiter, Saturn, Uranus and Neptune being
-    visible at the same time. [^8,^9]
+    visible at the same time. [^8,][^9]
 
 Having started with a camera and a small
 refractor in my childhood, I have since upgraded to an 8&quot; f4.9 Newtonian reflector.
@@ -107,7 +107,7 @@ Happy stargazing!!
 
 ## References
 
-[^1]: M. R., &quot;Concerning Hobbies,&quot; *The Irish Monthly*, vol. 33, no. 389, pp. 625-627, 1905.
+[^1,]: M. R., &quot;Concerning Hobbies,&quot; *The Irish Monthly*, vol. 33, no. 389, pp. 625-627, 1905.
 
 [^2]: D. Fancourt , S. Opher and C. de Oliveira, &quot;Fixed-Effects Analyses of Time-Varying
 Associations between Hobbies and Depression in a Longitudinal Cohort Study:
@@ -125,7 +125,7 @@ https://en.wikipedia.org/wiki/Supermoon#Occurrence.
 
 [^7]: B. King, &quot;COMETS TO CATCH IN 2020,&quot; 15 January 2020. [Online]. Available: https://skyandtelescope.org/observing/comets-to-catch-in-2020/.
 
-[^8]: B. McClure, &quot;See all 5 bright planets in February,&quot; 10 February 2020. [Online]. Available: https://earthsky.org/tonight/see-all-5-bright-planets-in-february.
+[^8,]: B. McClure, &quot;See all 5 bright planets in February,&quot; 10 February 2020. [Online]. Available: https://earthsky.org/tonight/see-all-5-bright-planets-in-february.
 
 [^9]: B. McClure, &quot;September 2020 guide to the bright planets,&quot; 31 August 2020. [Online]. Available: https://earthsky.org/astronomy-essentials/visible-planets-tonight-mars-jupiter-venus-saturn-mercury.
 
