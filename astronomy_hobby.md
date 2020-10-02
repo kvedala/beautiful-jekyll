@@ -28,7 +28,7 @@ intellectual hobbies and spiritual hobbies.
 [^2]: D. Fancourt, S. Opher and C. de Oliveira, &quot;Fixed-Effects Analyses of Time-Varying Associations between Hobbies and Depression in a Longitudinal Cohort Study: Support for Social Prescribing?,&quot; *Psychotherapy and Psychosomatics*, vol. 89, pp. 111-113, 2020. DOI: [10.1159/000503571](https://dx.doi.org/10.1159/000503571)
 
 <img alt="Mechanical dragonfly" title="Mechanical dragonfly" src="/assets/img/image001.png"
-style="float:right" width="75%">
+style="float:right" width="45%">
 
 Physical hobbies can include yoga or taking up a
 building project in home. Intellectual hobbies can be well known puzzles like
@@ -54,7 +54,7 @@ high-school mathematical principles to understand [astrology](https://en.wikiped
 
 <img alt="Astrophotography with camera on tripod"
 title="Astrophotography with camera on tripod" src="/assets/img/image002.jpg"
-style="float:left" width="75%">
+style="float:left" width="45%">
 
 Hobbies do not always have to lead to a
 scientific discovery but rather a means to engage oneself in the three aspects
