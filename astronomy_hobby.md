@@ -134,132 +134,122 @@ collection with acquisition details are available on [astrobin](https://www.astr
 Happy stargazing!!
 
 <table>
-<td width="75%"><a href="/assets/img/image004.png"><img alt="Lunar X &amp; V" title="Lunar X &amp; V" src="/assets/img/image004.png" width="75%"></a></td>
-<td width="25%">
-Name: [Lunar X &amp; V](https://en.wikipedia.org/wiki/Lunar_X)<br/>
-These are
-optical illusions seen on a
-specific phase of the moon. The image was taken using a camera and 600mm lens
-on a regular tripod.
-</td>
-</tr>
-
 <tr>
-<td>![M27 - Dumbbell Nebula]()</td>
-<td>
-Name: [M27](https://en.wikipedia.org/wiki/Messier_27") - The Dumbbell
-      Nebula. <br/>
-Distance: ~1227 light years<br/>
-This is a large nebula i.e., a gaseous region
-formed after a sun-like star exhausted all its resources for energy
-production by nuclear fusion and shedding all its remaining mass. The final
-tiny white dwarf can be seen in the middle of the nebula. This can been seen
-using binoculars.
-</td>
+    <td width="75%"><a href="/assets/img/image004.png"><img alt="Lunar X &amp; V" title="Lunar X &amp; V" src="/assets/img/image004.png" width="75%"></a></td>
+    <td width="25%">
+        Name: [Lunar X &amp; V](https://en.wikipedia.org/wiki/Lunar_X)<br/>
+        These are
+        optical illusions seen on a
+        specific phase of the moon. The image was taken using a camera and 600mm lens
+        on a regular tripod.
+    </td>
 </tr>
-
 <tr>
-<td>![M13 - Dumbbell Nebula]()</td>
-<td>
-Name: [M13](https://en.wikipedia.org/wiki/Messier_13)<br/>
-Distance: 22,200 to 25,000 light years>br/>
-A globular cluster in the Milky Way Galaxy -
-is the brightest visible in the night sky. This looks like a faint star to
-the naked eyes and small binoculars revels the fuzzball like structure of the
-cluster. The yellow stars are sun-like stars that are older than the brighter
-and younger blue stars in the middle.
-</td>
+    <td>![M27 - Dumbbell Nebula]()</td>
+    <td>
+        Name: [M27](https://en.wikipedia.org/wiki/Messier_27") - The Dumbbell Nebula. <br/>
+        Distance: ~1227 light years<br/>
+        This is a large nebula i.e., a gaseous region
+        formed after a sun-like star exhausted all its resources for energy
+        production by nuclear fusion and shedding all its remaining mass. The final
+        tiny white dwarf can be seen in the middle of the nebula. This can been seen
+        using binoculars.
+    </td>
 </tr>
-
 <tr>
-<td>![Comet C/2017 T2 (PANSTARRS)]()</td>
-<td>
-Name: [Comet C/2017 T2 (PANSTARRS)](https://en.wikipedia.org/wiki/C/2017_T2_(PANSTARRS))<br/>
-Distance: 255 million km<br/>
-This image was taken on June 17, 2020 when
-the comet happened to pass in the field of view of [NGC 3953](https://en.wikipedia.org/wiki/NGC_3953).
-This was one of those
-chance imagery that the comet and the galaxy fit in the camera’s field of
-view.
-</td>
+    <td>![M13 - Dumbbell Nebula]()</td>
+    <td>
+        Name: [M13](https://en.wikipedia.org/wiki/Messier_13)<br/>
+        Distance: 22,200 to 25,000 light years<br/>
+        A globular cluster in the Milky Way Galaxy -
+        is the brightest visible in the night sky. This looks like a faint star to
+        the naked eyes and small binoculars revels the fuzzball like structure of the
+        cluster. The yellow stars are sun-like stars that are older than the brighter
+        and younger blue stars in the middle.
+    </td>
 </tr>
-
 <tr>
-<td>![M52 and NGC 7635 (Bubble nebula)]()</td>
-<td>
-Name: [M52](https://en.wikipedia.org/wiki/Messier_52) and [NGC 7635 (Bubble nebula)](https://en.wikipedia.org/wiki/NGC_7635)<br/>
-Distance: M52 – 46000 ly<br/>
-This was also a chance imaging. I had no idea
-of the existence of NGC 7635 until this image. I found the M52 and was taking
-images of it. When correcting the image for and light saturation,
-the pretty pink patch and the ring-like bubble popped up.
-</td>
+    <td>![Comet C/2017 T2 (PANSTARRS)]()</td>
+    <td>
+        Name: [Comet C/2017 T2 (PANSTARRS)](https://en.wikipedia.org/wiki/C/2017_T2_(PANSTARRS))<br/>
+        Distance: 255 million km<br/>
+        This image was taken on June 17, 2020 when
+        the comet happened to pass in the field of view of [NGC 3953](https://en.wikipedia.org/wiki/NGC_3953).
+        This was one of those
+        chance imagery that the comet and the galaxy fit in the camera’s field of
+        view.
+    </td>
 </tr>
-
 <tr>
-<td>![M33 – Triangulum Galaxy]()</td>
-<td>
-Name: [M33 – Triangulum Galaxy](https://en.wikipedia.org/wiki/Triangulum_Galaxy)<br/>
-Distance: 2.7 million ly<br/>
-Once of our neighboring galaxies that is very
-faint but large. The galaxy is an example wherein there is no central
-super-massive blackhole. Faint cloudy arms are made of thousands of stars
-while bright the blue and purple areas are nebulae in that galaxy.
-</td>
+    <td>![M52 and NGC 7635 (Bubble nebula)]()</td>
+    <td>
+        Name: [M52](https://en.wikipedia.org/wiki/Messier_52) and [NGC 7635 (Bubble nebula)](https://en.wikipedia.org/wiki/NGC_7635)<br/>
+        Distance: M52 – 46000 ly<br/>
+        This was also a chance imaging. I had no idea
+        of the existence of NGC 7635 until this image. I found the M52 and was taking
+        images of it. When correcting the image for and light saturation,
+        the pretty pink patch and the ring-like bubble popped up.
+    </td>
 </tr>
-
 <tr>
-<td>![M101 – Pinwheel Galaxy]()</td>
-<td>
-Name: [M101](https://en.wikipedia.org/wiki/Pinwheel_Galaxy) –
-Pinwheel Galaxy<br/>
-Distance: 21 million ly<br/>
-This really faint and far away galaxy looked
-like a circular cloud when the skies were very clear. But this short exposure
-image reveals the detailed structure of the spiral arms, the bright nebulous
-regions and the galactic core.
-</td>
+    <td>![M33 – Triangulum Galaxy]()</td>
+    <td>
+        Name: [M33 – Triangulum Galaxy](https://en.wikipedia.org/wiki/Triangulum_Galaxy)<br/>
+        Distance: 2.7 million ly<br/>
+        Once of our neighboring galaxies that is very
+        faint but large. The galaxy is an example wherein there is no central
+        super-massive blackhole. Faint cloudy arms are made of thousands of stars
+        while bright the blue and purple areas are nebulae in that galaxy.
+    </td>
 </tr>
-
 <tr>
-<td>![M81 &amp; M82 - Bode's Galaxies]()</td>
-<td>
-Name: [M81](https://en.wikipedia.org/wiki/Messier_81) –
-Bode’s galaxy and [M82](https://en.wikipedia.org/wiki/Messier_82) –
-Cigar galaxy<br/>
-Distances: <br/>
-* M81 – 8.5 million ly
-* M82 – 12 million ly
-<br/>Both the galaxies have active galactic nuclei
-and in M82, the bright Hydrogen plumes in the center of the galaxy are
-visible.
-</td>
+    <td>![M101 – Pinwheel Galaxy]()</td>
+    <td>
+        Name: [M101](https://en.wikipedia.org/wiki/Pinwheel_Galaxy) – Pinwheel Galaxy<br/>
+        Distance: 21 million ly<br/>
+        This really faint and far away galaxy looked
+        like a circular cloud when the skies were very clear. But this short exposure
+        image reveals the detailed structure of the spiral arms, the bright nebulous
+        regions and the galactic core.
+    </td>
 </tr>
-
-<tr><tr>
-<td>![M64 – Black eye galaxy]()</td>
-<td>
-Name: [M64](https://en.wikipedia.org/wiki/Messier_64) – Black eye galaxy<br/>
-Distance: 17 million ly<br/>
-The distinct dark dust band in this galaxy
-gives it the unique appearance. Visually, gives a halo-like appearance to a
-bright central star.
-</td>
-</tr>
-
 <tr>
-<td>![NGC 6888 – Crescent Nebula]()</td>
-<td>
-Name: [NGC 6888](https://en.wikipedia.org/wiki/NGC_6888) – Crescent Nebula<br/>
-Distance: 5000 ly<br/>
-The visible part is the tidal shockwave due to
-stellar wind and radiates in visible spectrum. DSLR cameras block much of IR
-light and hence much of it is still not visible. This image was taken using
-the DGM optics Nebula filter.<br/>
-Formed from the remains of a dead star that is
-not visible anymore. The star that is brightening it is a different star. the
-whole system is so large that light takes 26 years to travel from one end to
-the other.
-</td>
+    <td>![M81 &amp; M82 - Bode's Galaxies]()</td>
+    <td>
+        Name: [M81](https://en.wikipedia.org/wiki/Messier_81) –
+        Bode’s galaxy and [M82](https://en.wikipedia.org/wiki/Messier_82) –
+        Cigar galaxy<br/>
+        Distances:
+        * M81 – 8.5 million ly
+        * M82 – 12 million ly
+        <br/>Both the galaxies have active galactic nuclei
+        and in M82, the bright Hydrogen plumes in the center of the galaxy are
+        visible.
+    </td>
+</tr>
+<tr>
+    <td>![M64 – Black eye galaxy]()</td>
+    <td>
+        Name: [M64](https://en.wikipedia.org/wiki/Messier_64) – Black eye galaxy<br/>
+        Distance: 17 million ly<br/>
+        The distinct dark dust band in this galaxy
+        gives it the unique appearance. Visually, gives a halo-like appearance to a
+        bright central star.
+    </td>
+</tr>
+<tr>
+    <td>![NGC 6888 – Crescent Nebula]()</td>
+    <td>
+        Name: [NGC 6888](https://en.wikipedia.org/wiki/NGC_6888) – Crescent Nebula<br/>
+        Distance: 5000 ly<br/>
+        The visible part is the tidal shockwave due to
+        stellar wind and radiates in visible spectrum. DSLR cameras block much of IR
+        light and hence much of it is still not visible. This image was taken using
+        the DGM optics Nebula filter.<br/>
+        Formed from the remains of a dead star that is
+        not visible anymore. The star that is brightening it is a different star. the
+        whole system is so large that light takes 26 years to travel from one end to
+        the other.
+    </td>
 </tr>
 </table>
