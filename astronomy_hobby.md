@@ -19,19 +19,21 @@ translate into being lonely. World has changed. It is not going to be exactly
 pre COVID-19 days again, for a long time. Therefore, the onus is on oneself to
 remain engaged and ensure loneliness due to being alone, is kept at bay.
 Hobbies play a vital role in this endeavour. It has been shown, time and again,
-that pursuing hobbies improves mental health keeping depression at bay.[^1,][^2] Many
+that pursuing hobbies improves mental health keeping depression at bay.[^1] [^2] Many
 even classify hobbies into three broad categories: physical hobbies,
 intellectual hobbies and spiritual hobbies.
 
-Physical hobbies can include
-yoga or taking up a
+[^1]: M. R., &quot;Concerning Hobbies,&quot; *The Irish Monthly*, vol. 33, no. 389, pp. 625-627, 1905.
+
+[^2]: D. Fancourt, S. Opher and C. de Oliveira, &quot;Fixed-Effects Analyses of Time-Varying Associations between Hobbies and Depression in a Longitudinal Cohort Study: Support for Social Prescribing?,&quot; *Psychotherapy and Psychosomatics*, vol. 89, pp. 111-113, 2020. DOI: [10.1159/000503571](https://dx.doi.org/10.1159/000503571)
+
+Physical hobbies can include yoga or taking up a
 building project in home. Intellectual hobbies can be well known puzzles like
 sudoku and crosswords, chess or building a mechanical contraption of a
 dragonfly mimic that stimulate the brain. Meditation, studying religion and
 self analysis can be classified as spiritual hobbies.
 
-Seldom will one find a
-hobby that can span all
+Seldom will one find a hobby that can span all
 the three categories. One such exceptional hobby, is astronomy – the study of
 celestial objects and phenomena. It is easy, in the context of news articles
 that we read of the discoveries being made, to think of the incredible amount
@@ -77,7 +79,21 @@ that either happened or are to happen during the COVID-19 are:
     also a spectacular view through 8&quot; and
     bigger telescopes.[^7]
 6. Mars, Jupiter, Saturn, Uranus and Neptune being
-    visible at the same time. [^8,][^9]
+    visible at the same time. [^8][^9]
+
+[^3]: Wikipedia, &quot;Supermoon#Occurrence,&quot; [Online](https://en.wikipedia.org/wiki/Supermoon#Occurrence).
+
+[^4]: B. McClure, &quot;Watch Mars disappear behind the moon on February 18,&quot; 15 February 1. [Online](https://earthsky.org/astronomy-essentials/lunar-occultation-of-mars-february-18).
+
+[^5]: J. Ryan, &quot;When Jupiter and Saturn meet,&quot; 6 August 2019. [Online](https://earthsky.org/astronomy-essentials/jupiter-saturn-conjunction-dec-2020).
+
+[^6]: B. McClure, &quot;EarthSky’s 2020 meteor shower guide,&quot; 3 January 2020. [Online](https://earthsky.org/astronomy-essentials/earthskys-meteor-shower-guide).
+
+[^7]: B. King, &quot;COMETS TO CATCH IN 2020,&quot; 15 January 2020. [Online](https://skyandtelescope.org/observing/comets-to-catch-in-2020/).
+
+[^8]: B. McClure, &quot;See all 5 bright planets in February,&quot; 10 February 2020. [Online](https://earthsky.org/tonight/see-all-5-bright-planets-in-february).
+
+[^9]: B. McClure, &quot;September 2020 guide to the bright planets,&quot; 31 August 2020. [Online](https://earthsky.org/astronomy-essentials/visible-planets-tonight-mars-jupiter-venus-saturn-mercury).
 
 Having started with a camera and a small
 refractor in my childhood, I have since upgraded to an 8&quot; f4.9 Newtonian reflector.
@@ -88,6 +104,8 @@ red light in the image alongside is to preserve the human eye adaptation to
 dark skies. It is always better to not use any white light from smartphones,
 car headlights, etc as it will dramatically reduce the visibility of celestial
 objects. [^10])
+
+[^10]: J. O'Connor, &quot;Dark Adaptation of the Human Eye and the Value of Red Flashlights,&quot; Grand Canyon National Park, National Park Service, 28 February 2020. [Online](https://www.nps.gov/articles/dark-adaptation-of-the-human-eye-and-the-value-of-red-flashlights.htm).
 
 I have often been fascinated by Astronomy since my
 childhood, because it shows the impermanence in permanence. I have been able to
@@ -105,32 +123,6 @@ collection with acquisition details are available on [astrobin](https://www.astr
 
 Happy stargazing!!
 
-## References
-
-[^1,]: M. R., &quot;Concerning Hobbies,&quot; *The Irish Monthly*, vol. 33, no. 389, pp. 625-627, 1905.
-
-[^2]: D. Fancourt , S. Opher and C. de Oliveira, &quot;Fixed-Effects Analyses of Time-Varying
-Associations between Hobbies and Depression in a Longitudinal Cohort Study:
-Support for Social Prescribing?,&quot; *Psychotherapy and Psychosomatics*, vol.
-89, pp. 111-113, 2020.
-
-[^3]: Wikipedia, &quot;Supermoon#Occurrence,&quot; [Online]. Available:
-https://en.wikipedia.org/wiki/Supermoon#Occurrence.
-
-[^4]: B. McClure, &quot;Watch Mars disappear behind the moon on February 18,&quot; 15 February 1.    [Online]. Available: https://earthsky.org/astronomy-essentials/lunar-occultation-of-mars-february-18.
-
-[^5]: J. Ryan, &quot;When Jupiter and Saturn meet,&quot; 6 August 2019. [Online]. Available: https://earthsky.org/astronomy-essentials/jupiter-saturn-conjunction-dec-2020.
-
-[^6]: B. McClure, &quot;EarthSky’s 2020 meteor shower guide,&quot; 3 January 2020. [Online]. Available: https://earthsky.org/astronomy-essentials/earthskys-meteor-shower-guide.
-
-[^7]: B. King, &quot;COMETS TO CATCH IN 2020,&quot; 15 January 2020. [Online]. Available: https://skyandtelescope.org/observing/comets-to-catch-in-2020/.
-
-[^8,]: B. McClure, &quot;See all 5 bright planets in February,&quot; 10 February 2020. [Online]. Available: https://earthsky.org/tonight/see-all-5-bright-planets-in-february.
-
-[^9]: B. McClure, &quot;September 2020 guide to the bright planets,&quot; 31 August 2020. [Online]. Available: https://earthsky.org/astronomy-essentials/visible-planets-tonight-mars-jupiter-venus-saturn-mercury.
-
-[^10]: J. O'Connor, &quot;Dark Adaptation of the Human Eye and the Value of Red Flashlights,&quot; Grand Canyon National Park, National Park Service, 28 February 2020. [Online]. Available: https://www.nps.gov/articles/dark-adaptation-of-the-human-eye-and-the-value-of-red-flashlights.htm.
-
 <table>
 <colgroup>
 <col width=70%/>
@@ -138,7 +130,7 @@ https://en.wikipedia.org/wiki/Supermoon#Occurrence.
 </colgroup>
 
 <tr>
-<td>![Lunar X &amp; V]()</td>
+<td>![Lunar X &amp; V](image004.png)</td>
 <td>
 Name: [Lunar X &amp; V](https://en.wikipedia.org/wiki/Lunar_X)<br/>
 These are
