@@ -1,6 +1,11 @@
 ---
+layout: post
 title: Astronomy - a hobby for the allrounders
 author: Rukmini Divya Gandepally, Krishna Vedala
+thumbnail-img: /assets/img/Andromeda-thumb.jpeg
+cover-img: /assets/img/Andromeda.jpeg
+share-img: /assets/img/Andromeda.jpeg
+tags: [astronomy,photography]
 ---
 
 For the first time in recorded history, COVID-19 has brought the world together into
