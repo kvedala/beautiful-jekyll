@@ -27,6 +27,8 @@ intellectual hobbies and spiritual hobbies.
 
 [^2]: D. Fancourt, S. Opher and C. de Oliveira, &quot;Fixed-Effects Analyses of Time-Varying Associations between Hobbies and Depression in a Longitudinal Cohort Study: Support for Social Prescribing?,&quot; *Psychotherapy and Psychosomatics*, vol. 89, pp. 111-113, 2020. DOI: [10.1159/000503571](https://dx.doi.org/10.1159/000503571)
 
+![Mechanical dragonfly](/assets/img/image001.png){:tofigure}
+
 Physical hobbies can include yoga or taking up a
 building project in home. Intellectual hobbies can be well known puzzles like
 sudoku and crosswords, chess or building a mechanical contraption of a
