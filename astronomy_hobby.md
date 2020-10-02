@@ -135,8 +135,8 @@ Happy stargazing!!
 
 <table width="100%">
 <tr>
-    <td width="70%"><a href="/assets/img/image004.png"><img alt="Lunar X &amp; V" title="Lunar X &amp; V" src="/assets/img/image004.png"></a></td>
-    <td width="30%">
+    <td width="40%"><a href="/assets/img/image004.png"><img alt="Lunar X &amp; V" title="Lunar X &amp; V" src="/assets/img/image004.png"></a></td>
+    <td width="60%">
         Name: <a href="https://en.wikipedia.org/wiki/Lunar_X">Lunar X &amp; V</a><br/>
         These are
         optical illusions seen on a
