@@ -27,7 +27,8 @@ intellectual hobbies and spiritual hobbies.
 
 [^2]: D. Fancourt, S. Opher and C. de Oliveira, &quot;Fixed-Effects Analyses of Time-Varying Associations between Hobbies and Depression in a Longitudinal Cohort Study: Support for Social Prescribing?,&quot; *Psychotherapy and Psychosomatics*, vol. 89, pp. 111-113, 2020. DOI: [10.1159/000503571](https://dx.doi.org/10.1159/000503571)
 
-![Mechanical dragonfly](/assets/img/image001.png){:tofigure}
+<img alt="Mechanical dragonfly" title="Mechanical dragonfly" src="/assets/img/image001.png"
+style="float:right; width:75%">
 
 Physical hobbies can include yoga or taking up a
 building project in home. Intellectual hobbies can be well known puzzles like
@@ -50,6 +51,10 @@ find out the ecliptic, the imaginary line that moon and certain bright objects
 follow. These certain bright objects are planets or the wandering stars! Same
 observations over a year can help you see the zodiacal signs, apply simple
 high-school mathematical principles to understand [astrology](https://en.wikipedia.org/wiki/Astrology).
+
+<img alt="Astrophotography with camera on tripod"
+title="Astrophotography with camera on tripod" src="/assets/img/image002.jpg"
+style="float:left; width:75%">
 
 Hobbies do not always have to lead to a
 scientific discovery but rather a means to engage oneself in the three aspects
@@ -108,6 +113,10 @@ objects.)[^10]
 
 [^10]: J. O'Connor, &quot;Dark Adaptation of the Human Eye and the Value of Red Flashlights,&quot; Grand Canyon National Park, National Park Service, 28 February 2020. [Online](https://www.nps.gov/articles/dark-adaptation-of-the-human-eye-and-the-value-of-red-flashlights.htm).
 
+<img alt="Astrophotography with red light"
+title="Astrophotography with red light" src="/assets/img/image003.png"
+style="float:right; width:45%">
+
 I have often been fascinated by Astronomy since my
 childhood, because it shows the impermanence in permanence. I have been able to
 view and take photographs of distinctive celestial highlights like Bubble
@@ -126,12 +135,12 @@ Happy stargazing!!
 
 <table style="width:100%">
 <colgroup>
-<col style="width:70%"/>
-<col style="width:30%"/>
+<col style="width:75%">
+<col style="width:25%">
 </colgroup>
 
 <tr>
-<td><img alt="Lunar X &amp; V" title="Lunar X &amp; V" src="/assets/img/image004.png" style="width:65%">:class="img-responsive"}</td>
+<td><img alt="Lunar X &amp; V" title="Lunar X &amp; V" src="/assets/img/image004.png"></td>
 <td>
 Name: [Lunar X &amp; V](https://en.wikipedia.org/wiki/Lunar_X)<br/>
 These are
